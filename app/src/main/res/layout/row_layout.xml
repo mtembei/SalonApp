@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="wrap_content"
+    android:layout_height="75dp"
+    android:orientation="horizontal">
+
+    <TextView
+
+        android:text="name"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:gravity="center"
+        android:id="@+id/tx_name"
+
+        android:layout_marginRight="5dp"
+        android:textAppearance="@style/TextAppearance.AppCompat.Small" />
+
+
+    <TextView
+        android:text="phone number"
+        android:layout_width="wrap_content"
+        android:layout_height="match_parent"
+        android:layout_toRightOf="@+id/tx_name"
+        android:gravity="center"
+        android:layout_marginRight="5dp"
+        android:id="@+id/tx_phoneNo"
+        android:textAppearance="@style/TextAppearance.AppCompat.Small" />
+    <TextView
+        android:text="hair"
+        android:layout_width="wrap_content"
+        android:layout_height="match_parent"
+        android:layout_toRightOf="@+id/tx_phoneNo"
+        android:gravity="center"
+        android:layout_marginRight="5dp"
+        android:id="@+id/tx_hair"
+        android:textAppearance="@style/TextAppearance.AppCompat.Small" />
+
+    <TextView
+        android:text="massage"
+        android:layout_width="wrap_content"
+        android:layout_height="match_parent"
+        android:gravity="center"
+        android:layout_marginRight="5dp"
+        android:id="@+id/tx_massage"
+        android:textAppearance="@style/TextAppearance.AppCompat.Small"
+        android:layout_toRightOf="@+id/tx_hair"
+        />
+
+    <TextView
+        android:text="others"
+        android:layout_width="wrap_content"
+        android:layout_height="match_parent"
+        android:gravity="center"
+        android:layout_marginRight="5dp"
+        android:id="@+id/tx_others"
+        android:textAppearance="@style/TextAppearance.AppCompat.Small"
+        android:layout_toRightOf="@+id/tx_massage"
+
+        />
+    <TextView
+        android:text="time"
+        android:layout_width="wrap_content"
+        android:layout_height="match_parent"
+        android:gravity="center"
+        android:layout_marginRight="5dp"
+        android:id="@+id/tx_time"
+        android:textAppearance="@style/TextAppearance.AppCompat.Small"
+        android:layout_below="@+id/tx_others"
+        android:hint="time" />
+
+</LinearLayout>

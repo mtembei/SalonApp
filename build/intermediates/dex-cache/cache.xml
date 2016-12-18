@@ -1,0 +1,293 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="D:\androidprojects\SalonApp\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
+        <dex dex="D:\androidprojects\SalonApp\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-ui-24.2.1_6f880e05bee051c96461f66a99e56e89f2561378.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\androidprojects\SalonApp\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="d5c731fc64c03dfe04d51134955b483551c35849">
+        <dex dex="D:\androidprojects\SalonApp\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-24.2.1_96ac9dd152c79424a1b1d9887296f6c8ebae3303.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\androidprojects\SalonApp\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
+        <dex dex="D:\androidprojects\SalonApp\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_369f5de0fd259bbc23adc254ed2ebf97e3544b42.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\mutembei\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\24.2.1\support-annotations-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="8de3aafecbdf98a61db6427f008f2d515bcd2544">
+        <dex dex="D:\androidprojects\SalonApp\app\build\intermediates\pre-dexed\debug\support-annotations-24.2.1_7b439a7e3f112f25da4d4bdfa355b465c069842f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\androidprojects\SalonApp\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
+        <dex dex="D:\androidprojects\SalonApp\app\build\intermediates\pre-dexed\debug\com.android.support-support-fragment-24.2.1_3d703d5f6de00de21789c3ed405c56b9e2374c78.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\androidprojects\SalonApp\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
+        <dex dex="D:\androidprojects\SalonApp\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-utils-24.2.1_871636e76f7d1f3fe2238eef69e4f9a7621a41ad.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\androidprojects\SalonApp\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="867dad63c33388ff8c7644b236579355036d075f">
+        <dex dex="D:\androidprojects\SalonApp\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_6fb18adc423259fb116e4c9096e8b1bdce6099aa.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\androidprojects\SalonApp\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
+        <dex dex="D:\androidprojects\SalonApp\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_6673ae7d5f8633b0656e994dfbe8951d6175d359.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\androidprojects\SalonApp\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="43b2dba6b5a0b14527961b75329d0b90025f15ea">
+        <dex dex="D:\androidprojects\SalonApp\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-24.2.1_35cf907398440aad410b285a5fa044325763ebf2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\androidprojects\SalonApp\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
+        <dex dex="D:\androidprojects\SalonApp\app\build\intermediates\pre-dexed\debug\com.android.support-support-media-compat-24.2.1_6d669ff2f32d139432507f7f00a00c1e0f4feb33.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\androidprojects\SalonApp\app\build\intermediates\exploded-aar\com.mcxiaoke.volley\library-aar\1.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="e40b9a81989bd4a846018551c280f8c4d837bf2e">
+        <dex dex="D:\androidprojects\SalonApp\app\build\intermediates\pre-dexed\debug\com.mcxiaoke.volley-library-aar-1.0.0_d1ca855f98974bd931ac750ca7eacd1b4d019dce.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\mutembei\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\24.2.1\support-annotations-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="8de3aafecbdf98a61db6427f008f2d515bcd2544">
+        <dex dex="D:\androidprojects\SalonApp\app\build\intermediates\pre-dexed\debug\support-annotations-24.2.1_7b439a7e3f112f25da4d4bdfa355b465c069842f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\androidprojects\SalonApp\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="94bc1dfb84dcc8b6f6f8f7cc726d7b2dd39c1574">
+        <dex dex="D:\androidprojects\SalonApp\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-24.2.1_829ff24c246c317917a9f42ff02094698b6dd66f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\androidprojects\SalonApp\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
+        <dex dex="D:\androidprojects\SalonApp\app\build\intermediates\pre-dexed\debug\com.android.support-support-compat-24.2.1_cef74de99769e6c946c93d0efb6e4fe4c8f5c703.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\androidprojects\SalonApp\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
+        <dex dex="D:\androidprojects\SalonApp\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_7e39f7638abdf4292cfa69392f3e963520b7cf98.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\androidprojects\SalonApp\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="D:\androidprojects\SalonApp\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-24.2.1_052db315db3a019d27cf5677ac25c720c31c564a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\androidprojects\SalonApp\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
+        <dex dex="D:\androidprojects\SalonApp\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_168d64341249d0a431c632ffe44fac38cec1c84d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\androidprojects\SalonApp\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
+        <dex dex="D:\androidprojects\SalonApp\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_6673ae7d5f8633b0656e994dfbe8951d6175d359.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\androidprojects\SalonApp\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="d5c731fc64c03dfe04d51134955b483551c35849">
+        <dex dex="D:\androidprojects\SalonApp\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-24.2.1_96ac9dd152c79424a1b1d9887296f6c8ebae3303.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\androidprojects\SalonApp\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
+        <dex dex="D:\androidprojects\SalonApp\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-utils-24.2.1_871636e76f7d1f3fe2238eef69e4f9a7621a41ad.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\androidprojects\SalonApp\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
+        <dex dex="D:\androidprojects\SalonApp\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_369f5de0fd259bbc23adc254ed2ebf97e3544b42.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\androidprojects\SalonApp\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
+        <dex dex="D:\androidprojects\SalonApp\app\build\intermediates\pre-dexed\debug\com.android.support-support-fragment-24.2.1_3d703d5f6de00de21789c3ed405c56b9e2374c78.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\androidprojects\SalonApp\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="867dad63c33388ff8c7644b236579355036d075f">
+        <dex dex="D:\androidprojects\SalonApp\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_6fb18adc423259fb116e4c9096e8b1bdce6099aa.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\androidprojects\SalonApp\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
+        <dex dex="D:\androidprojects\SalonApp\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_7e39f7638abdf4292cfa69392f3e963520b7cf98.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\androidprojects\SalonApp\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
+        <dex dex="D:\androidprojects\SalonApp\app\build\intermediates\pre-dexed\debug\com.android.support-support-media-compat-24.2.1_6d669ff2f32d139432507f7f00a00c1e0f4feb33.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\androidprojects\SalonApp\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="43b2dba6b5a0b14527961b75329d0b90025f15ea">
+        <dex dex="D:\androidprojects\SalonApp\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-24.2.1_35cf907398440aad410b285a5fa044325763ebf2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\androidprojects\SalonApp\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="D:\androidprojects\SalonApp\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-24.2.1_052db315db3a019d27cf5677ac25c720c31c564a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\androidprojects\SalonApp\app\build\intermediates\exploded-aar\com.mcxiaoke.volley\library-aar\1.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="e40b9a81989bd4a846018551c280f8c4d837bf2e">
+        <dex dex="D:\androidprojects\SalonApp\app\build\intermediates\pre-dexed\debug\com.mcxiaoke.volley-library-aar-1.0.0_d1ca855f98974bd931ac750ca7eacd1b4d019dce.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\androidprojects\SalonApp\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
+        <dex dex="D:\androidprojects\SalonApp\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_168d64341249d0a431c632ffe44fac38cec1c84d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\androidprojects\SalonApp\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
+        <dex dex="D:\androidprojects\SalonApp\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-ui-24.2.1_6f880e05bee051c96461f66a99e56e89f2561378.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\androidprojects\SalonApp\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
+        <dex dex="D:\androidprojects\SalonApp\app\build\intermediates\pre-dexed\debug\com.android.support-support-compat-24.2.1_cef74de99769e6c946c93d0efb6e4fe4c8f5c703.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\androidprojects\SalonApp\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="94bc1dfb84dcc8b6f6f8f7cc726d7b2dd39c1574">
+        <dex dex="D:\androidprojects\SalonApp\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-24.2.1_829ff24c246c317917a9f42ff02094698b6dd66f.jar" />
+    </item>
+
+</items>
